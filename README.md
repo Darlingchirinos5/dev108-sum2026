@@ -15,18 +15,32 @@ This repo gives you a ready-to-code Python environment in your browser — no in
 
 You'll need a free GitHub account to do this (github.com/join) if you don't already have one.
 
+## Repository Structure
+
+All lab activities live inside the `labwork/` folder, one subfolder per lab. Programming Projects will live inside the `projects/` folder as the term progresses.
+
+Each lab folder contains:
+- `main.py` — the starter file students write their code in
+- `INSTRUCTIONS.md` — that lab's assignment instructions
+- any additional supporting files the lab needs (e.g. data files)
+
 ## Labs
 
-| Lab | Topic |
-|---|---|
-| `lab01/` | Welcome to Python |
-| `lab02/` | Variables and User Input |
-| `lab03/` | Decisions and Control Structures |
-| `lab04/` | Looping |
-| `lab05/` | Functions |
-| `lab06/` | Testing and Debugging |
-| `lab07/` | File I/O and Exceptions |
-| `lab08/` | Strings |
+| Folder | 
+|---|
+| `labwork/lab01-input-output` |
+| `labwork/lab02-01-testscores` |
+| `labwork/lab02-02-calculator` |
+| `labwork/lab03-01-quiz` |
+| `labwork/lab04-01-mpg` |
+| `labwork/lab04-02-testscores` |
+| `labwork/lab05-01-guess-the-number` |
+| `labwork/lab06-01-sayhello` |
+| `labwork/lab06-02-debug` |
+| `labwork/lab07-01-testscores` |
+| `labwork/lab07-02-movielist` |
+| `labwork/lab08-01-mpg-csv` |
 
-Each folder has a `main.py` starter file and a `instructions.md` file with that lab's instructions. You can also find the instructions in our Canvas class assignment. 
+## Projects
 
+Programming Projects will be added to the `projects/` folder as they're assigned.
